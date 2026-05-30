@@ -86,12 +86,11 @@ If you wish to clone this repository and run the UI yourself:
    ```bash
    python app.py
    ```  
-4. The local web server will spin up on **https://huggingface.co/spaces/rayuga2503/NeuroScanAI**.
 
 ---
 
 ## 👨‍💻 Author
-📌 **Developed by:** *Shubham Vishwakarma*
+📌 **Developed by:** *Jeet Nakrani*
 📌 **Publication:** It has been Published in IEEE journal
 💬 Feel free to reach out for collaboration or research discussions.  
 
